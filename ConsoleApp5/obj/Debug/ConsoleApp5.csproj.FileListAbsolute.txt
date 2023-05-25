@@ -1,0 +1,11 @@
+C:\Users\polup\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\polup\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\polup\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\polup\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\MyMath.dll
+C:\Users\polup\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\MyMath.pdb
+C:\Users\polup\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\polup\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\polup\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\polup\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CopyComplete
+C:\Users\polup\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\polup\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

@@ -1,0 +1,6 @@
+C:\Users\polup\source\repos\ConsoleApp5\MyMath\bin\Debug\MyMath.dll
+C:\Users\polup\source\repos\ConsoleApp5\MyMath\bin\Debug\MyMath.pdb
+C:\Users\polup\source\repos\ConsoleApp5\MyMath\obj\Debug\MyMath.csproj.AssemblyReference.cache
+C:\Users\polup\source\repos\ConsoleApp5\MyMath\obj\Debug\MyMath.csproj.CoreCompileInputs.cache
+C:\Users\polup\source\repos\ConsoleApp5\MyMath\obj\Debug\MyMath.dll
+C:\Users\polup\source\repos\ConsoleApp5\MyMath\obj\Debug\MyMath.pdb
